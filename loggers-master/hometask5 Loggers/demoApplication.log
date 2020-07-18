@@ -1,0 +1,60 @@
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :200.0
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :210.00000000000023
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] INFO  hometask.ConstructionCostEstimation  - Cost =300000.0 INR
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :1000.0
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :1000.0
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] INFO  hometask.ConstructionCostEstimation  - Cost =120000.0 INR
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :90.0
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :92.72700000000009
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] FATAL hometask.ConstructionCostEstimation  - Enter a valid input ... 
+[main] INFO  hometask.InterestEvaluation  - Enter the principal amount :
+[main] INFO  hometask.InterestEvaluation  - Enter the time period :
+[main] INFO  hometask.InterestEvaluation  - Enter the rate of interest per annum :
+[main] INFO  hometask.InterestEvaluation  - Simple Interest :900.0
+[main] INFO  hometask.InterestEvaluation  - Compound Interest :927.2700000000004
+[main] INFO  hometask.InterestEvaluation  - -------------------------------------
+[main] INFO  hometask.ConstructionCostEstimation  - CONSTRUCTION COST ESTIMATION
+[main] INFO  hometask.ConstructionCostEstimation  - Variants Available
+[main] INFO  hometask.ConstructionCostEstimation  - 1. Construction with standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 2. Construction with above standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 3. Construction with high standard materials
+[main] INFO  hometask.ConstructionCostEstimation  - 4. Construction with high standard materials and fully automated
+[main] INFO  hometask.ConstructionCostEstimation  - Enter your choice (1-4): 
+[main] INFO  hometask.ConstructionCostEstimation  - Enter the area of house: 
+[main] FATAL hometask.ConstructionCostEstimation  - Enter a valid input ... 
